@@ -1,0 +1,22 @@
+{
+  "meetups": [
+    {
+      "id": 1619445769054,
+      "data": {
+        "title": "efageg",
+        "image": "https://www.umwelt.nrw.de/fileadmin/redaktion/_processed_/e/9/csm_Waelder_sind_unser_Naturerbe_3134405_karin_claus_Panthermedia.net_b389c5aa72.jpg",
+        "address": "Some Place in the WOrld 2, 99999 World",
+        "description": "Some Cool Text to enter :)"
+      }
+    },
+    {
+      "id": 1619447456807,
+      "data": {
+        "title": "Meet the Animals",
+        "image": "https://pixnio.com/free-images/2020/12/05/2020-12-05-11-54-28-1400x933.jpg",
+        "address": "Somewhere in the World, 99999 World",
+        "description": "Meet the Animals and study their behaviours."
+      }
+    }
+  ]
+}
